@@ -8,3 +8,7 @@
 ## 2022-09-12
 
 [project summary first draft for email to PO](/project_summary_first_draft.md)
+
+## 2022-09-23
+
+- Make 'Project' task list
