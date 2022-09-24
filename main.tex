@@ -33,8 +33,11 @@
 % https://nsf.gov/bfa/dias/policy/coa.jsp
 % recommended reviewers (optional)
 \include{LaTeX/reviewers_yes.tex}
+\markdownInput{markdown/reviewers_yes.md}
+
 % reviewers to exclude (optional)
-\include{reviewers_no}
+\include{LaTeX/reviewers_no.tex}
+\markdownInput{markdown/reviewers_no.md}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % A - COVER SHEET
@@ -50,7 +53,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
 \include{LaTeX/b-summary.tex}
-
 \markdownInput{markdown/b-summary.md}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -65,7 +67,8 @@
 % Usually limited to 15 pages
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
-\include{d-project}
+\include{LaTeX/d-project.tex}
+\markdownInput{markdown/d-project.md}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % E - REFERENCES CITED
@@ -80,8 +83,11 @@
 % Limited to 3 pages per person
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
-\include{f-bio_person1}
-\include{f-bio_person2}
+\include{LaTeX/f-bio_person1.tex}
+\markdownInput{markdown/f-bio_person1.md}
+
+\include{LaTeX/f-bio_person2.tex}
+\markdownInput{markdown/f-bio_person2.md}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % G - BUDGET JUSTIFICATION
@@ -89,31 +95,39 @@
 % Limited to 5 pages
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
-\include{g-budget}
+\include{LaTeX/g-budget.tex}
+\markdownInput{markdown/g-budget.md}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % H - CURRENT AND PENDING SUPPORT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
-\include{h-support_person1}
-\include{h-support_person2}
+\include{LaTeX/h-support_person1.tex}
+\markdownInput{markdown/h-support_person1.md}
+
+\include{LaTeX/h-support_person2.tex}
+\markdownInput{markdown/h-support_person2.md}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % I - FACILITIES & RESOURCES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
-\include{i-facilities}
+\include{LaTeX/i-facilities.tex}
+\markdownInput{markdown/i-facilities.md}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % J - DATA MANAGEMENT PLAN
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
-\include{j-data}
+\include{LaTeX/j-data.tex}
+\markdownInput{markdown/j-data.md}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % J - POSTDOC MENTORING PLAN
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
-\include{j-mentor}
+\include{LaTeX/j-mentor.tex}
+\markdownInput{markdown/j-mentor.md}
 
 \end{document}
