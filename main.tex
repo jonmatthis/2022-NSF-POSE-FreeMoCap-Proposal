@@ -17,13 +17,15 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Package calls and title
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\include{header}
+\include{LaTeX/header.tex}
 \renewcommand{\title}{\noindent {{\bf Your Cool Title}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Document starts here
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
+
+\markdownInput{LaTeX/hi.md}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % SINGLE PAGE DOCUMENTS
@@ -32,7 +34,7 @@
 % must now use a template found here:
 % https://nsf.gov/bfa/dias/policy/coa.jsp
 % recommended reviewers (optional)
-\include{reviewers_yes}
+\include{LaTeX/reviewers_yes.tex}
 % reviewers to exclude (optional)
 \include{reviewers_no}
 
@@ -49,7 +51,7 @@
 % This needs to fit on one page
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
-\include{b-summary}
+\include{LaTeX/b-summary.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % C - TABLE OF CONTENTS
