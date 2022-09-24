@@ -1,6 +1,8 @@
 NSF Proposal in LaTeX
 ====
 
+https://github.com/jeremygibbs/nsf-proposal-latex 
+
 This project is your glass of water to the hell that is MS Word. Scientific proposals are daunting and compiling all of the required material is tedious. This goal of this LaTeX template is to construct a proposal according to the [National Science Foundation guidelines][1] (as of October 2021). The template uses the reference styling of the American Meteorological Society. You can substitute your own style file. 
 
 The end product is a visually consistent and beautiful proposal document. I cannot help you with the science, but I can help you present something that does not look like garbage.
