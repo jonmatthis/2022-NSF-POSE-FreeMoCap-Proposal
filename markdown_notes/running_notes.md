@@ -9,6 +9,6 @@
 
 [project summary first draft for email to PO](/project_summary_first_draft.md)
 
-## 2022-09-23
+## 2022-09-24
 
-- Make 'Project' task list
+[project description outline](/project_description_outline.md)

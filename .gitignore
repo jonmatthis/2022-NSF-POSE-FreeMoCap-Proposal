@@ -1,3 +1,11 @@
-.idea
-.obsidian
+*aux 
+*bbl 
+*blg 
+*fls 
+*log 
+*out
+.DS_Store*
+.texpadtmp*
 .vscode
+.obsidian
+.idea
