@@ -9,3 +9,10 @@
 .vscode
 .obsidian
 .idea
+venv
+.venv
+.env
+env
+
+
+
