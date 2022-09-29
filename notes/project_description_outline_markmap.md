@@ -13,7 +13,7 @@
 ###### Create an opportunity for self-directed exploration of `Constituent Components`
 ###### Anyone (from any level) can train someone to do this kind of work
 ###### `BUDGET` - Pay for this kind of help, somehow...
-v 
+
 ### Community grants program? 
 #### Internal voting via 'eurovision' model
 #### Voting rights given to power users, based on accrued XP
