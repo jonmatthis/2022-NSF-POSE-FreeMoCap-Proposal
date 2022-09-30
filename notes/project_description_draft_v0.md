@@ -51,6 +51,41 @@ The section must have:
     
 ## Community Building: }
 - Describe a long-term strategy for community building to `engage`, `incentivize`, and `onboard` potential content contributors who will help in further developing and maintaining the open-source product;
+  - Pipeline from low -> high XP contributors
+  - Identifying and onboarding power users as moderators
+    - Solidifying voting system for mods
+    - Identifying votable issues for mods e.g.:
+      - tooling
+      - process
+      - prioritization
+    - Determining voting scheduling e.g.
+      - weekly?
+      - bi-weekly?
+      - async?
+  - Discord support `help-requests` channel workflow
+    1. Initial support request
+    2. Thread created via bot integration
+    3. Support request handled within thread
+    4. When resolved, mark initial SR with ✅
+  - One-stop shop as prioritized backlog
+    - Bot posts daily/weekly link to Github repo prioritized backlog?
+  - Education as community
+    - Mentorship and pairing
+    - Matching system?
+    - Reward and recognition for both mentor and mentee
+      - XP
+      - Server level-up
+      - Roles
+      - Channel access unlock
+    - Possibilty of pure self-education
+    - Streamlined doc/readme requests?
+
+- TLDR Takeaways
+  - Multichannel (self-directed, crowdsourced, mentor/mentee) pipeline from low XP -> power user
+  - Implement multi-stream reward/level-up framework
+  - Implement routine backlog prioritization 
+  - Streamline discord support channel workflow
+  - Mod voting system formalization
 
 ## Sustainability: 
 - Articulate clear sustainability goals of the OSE, and 
