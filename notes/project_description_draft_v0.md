@@ -1,5 +1,8 @@
 # Project Summary (rough)
 
+[![hackmd-github-sync-badge](https://hackmd.io/sXkHmMK6TfyiYrYnIwPycg/badge)](https://hackmd.io/sXkHmMK6TfyiYrYnIwPycg)
+
+
 ###### tags: NSF_POSE, Oct2022
 
 
